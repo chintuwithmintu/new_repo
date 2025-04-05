@@ -83,5 +83,5 @@ auth = """
 <u><i>🚀Enjoy your access for {} days!</u></i>
 
 
-If you need any assistance, feel free to contact [Your Dealer 🤝](https://t.me/chiru52)</b>
+If you need any assistance, feel free to contact [Your Dealer 🤝](https://t.me/Deepa4455)</b>
 """
